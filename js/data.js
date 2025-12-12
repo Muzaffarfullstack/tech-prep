@@ -17,6 +17,7 @@ export const daysData = [
           "Two Sum — solve in Python + JS, include brute-force + optimized.",
           "Remove Duplicates — solve + test 5 custom arrays.",
           "Deliverable: upload code to GitHub /week1/day1/",
+          "3Sum, Valid anagram, Two Pointers, Binary Tree",
         ],
       },
       {
